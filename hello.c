@@ -1,6 +1,6 @@
 #inculde < studio.h>
 
 int main(void)
-{
-    Printf ("hello, world\n")
+}
+  printf (hello, world\n");
 }
