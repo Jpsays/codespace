@@ -3,5 +3,6 @@
 
 int main(void)
 {
+    string answer = get _string ("what's your name? ");
     printf("hello,world/n");
 }
